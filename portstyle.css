@@ -1,0 +1,70 @@
+#header{
+    right: 0;
+}
+/*rtl editing*/
+.nav-menu * {
+    padding-right: 5px;
+}
+#hero .hero-container {
+    right: 20%;
+}
+#main {
+   margin: 0;
+    margin-right: 300px
+}
+.section-title h2::after {
+    background: #149ddd;
+    right: 0;
+}
+strong {
+    padding-left: 10px;
+}
+.facts .count-box span {
+    color: #050d18;
+     margin-left: 0; 
+}
+.facts .count-box i {
+    color: #149ddd;
+    float: right;
+}
+.skills .progress .skill .val {
+    float: left;
+}
+.resume .resume-item::before {
+    padding-right: 10px;
+    right: -10px;
+}
+.resume .resume-item {
+ border-right: 2px solid #1f5297;
+ padding: 0px 20px;
+ border-left: none;
+}
+.services .icon {
+    float: right;
+}
+.services .title a {
+    color: #343a40;
+    padding: 5px;
+}
+.contact .info i {
+    color: #149ddd;
+    float: right;
+     margin-left: 10px;
+}
+
+/**/
+#hero {
+    background:  url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v1013-p-0009a_1-krxfulwe.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=19eaa1b284bd38ab2d07b004d203fa80);
+           background-size:cover;
+       background-repeat: no-repeat;
+}
+
+.rounded-circle {
+    border-radius: 45%!important;
+}
+ #header .profile img {
+    height: 180px;
+     margin: 0px auto;!important;
+}
+.fc{color:#149ddd;}
+
